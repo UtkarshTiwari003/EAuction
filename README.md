@@ -1,2 +1,3 @@
 # EAuction
-A Stock Market Full Stack Application to register and check all the company details and its related stocks.
+An EAuction Full Stack Application to register and check all the auction details and its related bids and customers.
+
